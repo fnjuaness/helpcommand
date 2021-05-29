@@ -1,2 +1,0 @@
-# helpcommand
-codigo comando help!
